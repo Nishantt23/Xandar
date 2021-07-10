@@ -1,7 +1,7 @@
 [
   {
     "verify-email.org API Key": "insert_API_key_here",
-    "hunter.io API Key": "",
+    "hunter.io API Key": "insert_API_key_here",
     "Breached Sites[leak-lookup.com API Key]": "insert_API_key_here",
     "Social Scan": "True",
     "Related Phone Numbers" : "True",
