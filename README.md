@@ -36,7 +36,7 @@ Save your API keys in `config.json`
 
 ## Cloning:
 
-`git clone https://github.com/Nishantt23/xandar.git`
+`git clone https://github.com/Nishantt23/Xandar.git`
 
 ## Usage:
 
