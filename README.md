@@ -22,23 +22,23 @@ Xandar is an email OSINT tool. It finds out a lot of juicy information about the
 | Service | Function | Status |
 | :--- | :--- | :--- |
 | [verify-email](https://verify-email.org/) | Email Verification | :white\_check\_mark: :key: |
-| [hunter.io](https://hunter.io/) - Public | Related Emails | :white\_check\_mark: :key: |
+| [hunter.io](https://hunter.io/) - Free Tier | Related Emails | :white\_check\_mark: :key: |
 | [leak-lookup](https://leak-lookup.com/) | Breached Sites Names | :white\_check\_mark: :key: |
 | [hackertarget](https://hackertarget.com/) | DNS Lookup | :white\_check\_mark: |
 
-_- API key required_
+:white\_check\_mark: : Service Up and Running!
+
+:key: : API Key required
 
 #### For Use:
 
-Save your API keys in the `config.json`
+Save your API keys in `config.json`
 
 ## Cloning:
 
 `git clone https://github.com/Nishantt23/xandar.git`
 
 ## Usage:
-
-`cd mosint`
 
 `pip3 install -r requirements.txt`
 
@@ -47,9 +47,3 @@ Save your API keys in the `config.json`
 * Set Target Email [ -e / --email ]
 
 `python3 xandar.py -e example@website.com`
-
-## Screen :
-
-[![mosint](https://asciinema.org/a/2vXl00ACUTpPULeQsYcDiFsXy.svg)](https://asciinema.org/a/2vXl00ACUTpPULeQsYcDiFsXy)
-
-
